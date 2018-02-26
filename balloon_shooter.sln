@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7BA2C525-5720-6497-4435-8A022232AD1C}") = "balloon_shooter", "Assembly-CSharp.csproj", "{935B30F4-401E-1B1C-7838-97AFB5E51B0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{935B30F4-401E-1B1C-7838-97AFB5E51B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935B30F4-401E-1B1C-7838-97AFB5E51B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935B30F4-401E-1B1C-7838-97AFB5E51B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935B30F4-401E-1B1C-7838-97AFB5E51B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
